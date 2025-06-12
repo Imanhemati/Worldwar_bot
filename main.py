@@ -1,7 +1,7 @@
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes, ConversationHandler
 
-BOT_TOKEN = "توکن_ربات_تو"
+BOT_TOKEN = "7583451471:AAEepYWr60REyXKXSDYrs5y6HM6M4DJLnnA "
 
 players = {}
 CHOOSING_COUNTRY = 1
